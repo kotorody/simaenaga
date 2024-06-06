@@ -1,0 +1,22 @@
+@charset "UTF-8";
+body {
+  background-color: #fdeff2;
+  background-image: url(images/p8104.jpg);
+}
+.simaenaga-title {
+  color: #f6adc6;
+}
+#simaenaga-heading-image {
+  border-radius: 12px;
+}
+h2 {
+  color: #8c6450;
+}
+p {
+  font-size: 24px;
+  color: #fffff9;
+}
+a p {
+  font-size: 24px;
+  color: #fffff9;
+}
